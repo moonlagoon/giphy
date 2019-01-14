@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://data.whicdn.com/images/294984204/original.gif); background-size: 100%;
+}
+
+header {
+    align-content: center;
+    text-align: center;
+    color: rgb(40, 54, 38);
+    background-color: rgba(243, 243, 243, 0.7);
+    border-style: solid;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.container {
+    color: white;
+    right: 20px;
+    align-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container2 {
+    align-content: center;
+    text-align: center;
+    background-color: rgba(243, 243, 243, 0.7);
+    height: 30px;
+    padding-top: 10px;
+    width: 500px;
+    right: 600px;
+}
+
+.container3 {
+    background-color: rgba(243, 243, 243, 0.7);
+}
